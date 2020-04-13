@@ -1,0 +1,24 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+* {
+	box-sizing: border-box;
+	font:10px "Montserrat", sans-serif;
+}
+
+:root{
+	--amarelo:#e4bb23;
+	--amarelado:#bc9a1d;
+	--branco:#ffffff;
+	--cinza:#ccc;
+	--vermelho:#e74c3c;
+}
+
+.container{
+	margin: 0 auto;
+    position: relative;
+	max-width: 960px;
+	
+	
+}
+
